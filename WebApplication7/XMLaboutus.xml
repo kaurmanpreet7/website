@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Image/fifa1.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Image/fifa2.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Image/fifa3.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>Image/fifa4.png</ImageUrl>
+  </Ad>
+  
+</Advertisements>
